@@ -129,6 +129,10 @@ nav a {
 }
 
 .main_vegetables {
+	width: 445px;
+	display: inline-block;
+	vertical-align: top;
+  float: left;
 }
 
 .main_vegetables_head {
@@ -165,7 +169,7 @@ nav a {
 	width: 445px;
 	display: inline-block;
 	vertical-align: top;
-	margin-left: 46px;
+	float: right;
 }
 
 .main_contact_head p {margin: 0;}
