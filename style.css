@@ -1,0 +1,213 @@
+body {
+	margin: 0 auto;
+	background-color: #EDF2C5;
+}
+
+h1 {
+  font-size: 44px;
+	font-family: Arial Black;
+	color: #778A50;
+	width: 271px;
+	height: 42px;
+	margin: 0;
+}
+
+.container {
+	width: 940px;
+	padding: 0px 160px;
+	margin: 0 auto;
+}
+
+header {
+	margin-top: 53px;
+}
+
+.title_area {
+	display: inline-block;
+	margin-left;
+}
+
+.btn_facebook {
+	margin-top: 15px;
+	display: inline-block;
+	float: right;
+	padding: 10px 5px;
+}
+
+.btn_instagram {
+	margin-top: 15px;
+	display: inline-block;
+	float: right;
+	padding: 10px 5px;
+}
+
+.vertical_line {
+	margin-top: 25px;
+	margin-left: 5px;
+	margin-right: 5px;
+  height: 25px;
+	width: 1px;
+	display: inline-block;
+	float: right;
+	background: #778A50;
+}
+
+.btn_login {
+	margin-top: 15px;
+	display: inline-block;
+	float: right;
+	padding: 10px 5px;
+}
+
+.btn_login button {
+	color: #778A50;
+	height: 25px;
+	border-radius: 3px;
+	background-color: #EDF2C5;
+	border: 1px solid #778A50;
+}
+
+.btn_join {
+	margin-top: 15px;
+	margin-right;
+	display: inline-block;
+	float: right;
+	padding: 10px 5px;
+}
+
+.btn_join button {
+	color: #778A50;
+	height: 25px;
+	border-radius: 3px;
+  background-color: #EDF2C5;
+	border: 1px solid #778A50;
+}
+
+nav {
+	margin-top: 15px;
+  width: 940px;
+	height: 52px;
+	border-radius: 3px;
+	background-color: #778A50;
+}
+
+nav li {
+  list-style: none;
+	float: left;
+	margin-right: 5px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
+
+nav a {
+	display: block;
+	color: #EDF2C5;
+	font-family: Arial Black;
+	font-weight: bold;
+	text-decoration: none;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#content {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.img_pumpkin {
+	margin-top: 20px;
+	border-radius: 3px;
+}
+
+.main_content {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.main_content p {
+	margin: 0;
+}
+
+.main_vegetables {
+}
+
+.main_vegetables_head {
+	width: 415px;
+	font-family: Arial Black;
+  color: #EDF2C5;
+	background-color: #778A50;
+	border-radius: 3px;
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.main_vegetables_img {
+  width: 444px;
+  float: left;
+}
+
+.main_vegetables_img #pepper {
+  margin-top: 15px;
+	margin-right: 8px;
+}
+
+.main_vegetables_img #carrot {
+  margin-top: 15px;
+	margin-right: 8px;
+}
+
+.main_vegetables_img #corn {
+  margin-top: 15px;
+}
+
+.main_contact {
+	width: 445px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 46px;
+}
+
+.main_contact_head p {margin: 0;}
+
+.main_contact_head {
+	font-family: Arial Black;
+	color: #EDF2C5;
+	background-color: #778A50;
+	border-radius: 3px;
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.main_contact_content {
+  background-color: #F7FBDA;
+  font-family: Arial Black;
+  font-size: 12px;
+  color: #7D7D7D;
+  margin-top: 15px;
+  height: 140px;
+  padding: 1px 16px;
+  line-height: 1.33;
+}
+
+.main_contact_content_first {
+	line-height: 1.33;
+}
+
+.main_contact_content_second {
+	line-height: 1.83;
+}
+
+.footer_p {
+	background-color: #778A50;
+	height: 34px;
+	text-align: center;
+	padding-top: 24px;
+}
+
+.footer_p p {
+  margin: 0;
+	font-size: 12px;
+	color: #EDF2C5;
+}
