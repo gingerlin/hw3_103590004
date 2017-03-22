@@ -150,16 +150,19 @@ nav a {
   width: 445px;
   float: left;
   margin: -10px;
+  display: inline-block;
 }
 
 .main_vegetables_img #pepper {
   margin-top: 15px;
-	margin-right: 8px;
+  margin-right: 8px;
+  display: inline-block;
 }
 
 .main_vegetables_img #carrot {
   margin-top: 15px;
-	margin-right: 8px;
+  margin-right: 8px;
+  display: inline-block;
 }
 
 .main_vegetables_img #corn {
